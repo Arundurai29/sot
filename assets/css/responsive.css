@@ -1,0 +1,142 @@
+@media (max-width: 600px) {
+  .img-box1 .img2 img {
+    width: 85%;
+    margin-left: 28px;
+  }
+  .team-card .team-img img {
+    width: 75% !important;
+    margin-left: 40px;
+  }
+  /* .course-single-meta {
+    display: grid !important;
+  } */
+  .course-img img {
+    object-fit: cover;
+  }
+  .sec-title1{
+    font-size: 33px !important;
+  }
+  .fw-medium{
+    font-size: 25px !important;
+  }
+  .sub-icons {
+    display: flex;
+    flex-wrap: wrap;
+    /* align-content: space-around; */
+    flex-direction: row;
+    width: 85%;
+  }
+  .team-img1 img {
+    border-radius: 50%;
+    width: 149%;
+    margin-left: 2px;
+    margin-top: 31px;
+    margin-bottom: -8px !important;
+  }
+  .img-box4 .img1 img {
+    width: 84% !important;
+    padding-left: 40px;
+   
+  }
+  .img-box4 .img2 img {
+    width: 84% !important;
+    padding-left: 40px;
+  
+  }
+  .about-grid_img img {
+    width: 84% !important;
+    padding-left: 40px;
+  }
+  .about-grid{
+    display: table;
+    height: 25% !important;
+  }
+  .sub-title{
+    margin-top: 55px;
+  }
+  .img-box1 .about-shape1:after{
+    width: 90px !important;
+    height: 90px !important;
+    left: -10px !important;
+  }
+
+.wcu-img-1 .student-count{
+  padding: 11px 5px 0px 7px;
+}
+.team-card.style2 .team-img-wrap .team-img img{
+  width: 243px !important;
+    height: 286px;
+    margin-left: 5px;
+    margin-top: 10px;
+}
+.divya2{
+  width: 270px !important;
+    height: 277px !important;
+    margin-left: 38px !important;
+}
+.divya{
+  height: 261px !important;
+  width: 275px !important;
+    margin-left: 34px;
+}
+.course-img img{
+  width: 70% !important;
+  border-radius: 10px !important;
+  height: 100px !important;
+}
+.course-img{
+  text-align: center;
+}
+.team-area{
+margin-top: -60px !important;
+}
+.points{
+  display: contents;
+}
+
+.team-card.style2{
+  display: grid;
+  place-items: center;
+}
+
+.img-box1 .img1 img{
+  height: 300px !important;
+  object-fit: cover;
+}
+.about-logo{
+  width: 62%;
+  margin-top: -65px !important;
+}
+.lab-img{
+  width: 66% !important;
+  margin-top: 0 !important;
+}
+.learn-sec{
+  width: 83%;
+}
+.text-end{
+  text-align: center !important;
+}
+.feature-list{
+  padding-bottom: 47px !important;
+}
+.feature-list_icon {
+  margin-top: -29px !important;
+}
+.btn-group{
+  display: grid !important;
+  place-content: center;
+}
+.cta-wrap5 .cta-img img {
+  width: 75% !important;
+  border-radius: 5px !important;
+}
+.counter-grid-wrap{
+  display: grid !important;
+  place-content: center !important;
+}
+
+.checklist ul {
+font-size: 14px;
+}
+}

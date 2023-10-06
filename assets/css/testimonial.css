@@ -1,0 +1,24 @@
+.h1, h1, .h2, h2, .h3, h3, .h4, h4, .h5, h5, .h6, h6 {
+    font-family: var(--title-font);
+    color: var(--title-color);
+    text-transform: none;
+    font-weight: 700;
+    line-height: 1.4;
+    margin: 0 0 15px 0;
+}
+
+.reviews{
+    height: 200px;
+    overflow-y: scroll;
+    scroll-behavior: smooth;
+    text-align: justify;
+    background-color:rgb(243, 243, 243);
+    border-radius: 15px;
+}
+.reviews-img{
+    display: flex;
+}
+
+.reviews p{
+    padding: 15px;
+}
